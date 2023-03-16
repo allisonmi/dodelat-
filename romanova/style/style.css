@@ -1,0 +1,70 @@
+.menu {
+    background-color: lightblue;
+    color: black;
+    height: 50px;
+}
+
+.button {
+    border: 1px solid purple;
+    background-color: whitesmoke;
+    color: brown;
+    padding: 10px 15px 10px 15px;
+    margin: 5px;
+    border-radius: 50px;
+    text-decoration: none;
+}
+
+.button:hover {
+background-color: pink;
+color: brown;
+font-weight: ;
+}
+
+.button1 {
+    border: 1px solid purple;
+    background-color: whitesmoke;
+    color: brown;
+    padding: 10px 15px 10px 15px;
+    margin: 5px;
+    border-radius: 50px;
+    text-decoration: none;
+}
+
+.button1:hover {
+    background-color: pink;
+    color: brown;
+    font-weight: ;
+    }
+    
+    
+.button2 {
+    border: 1px solid purple;
+    background-color: whitesmoke;
+    color: brown;
+    padding: 10px 15px 10px 15px;
+    margin: 5px;
+    border-radius: 50px;
+    text-decoration: none;
+}
+
+.button2:hover {
+background-color: pink;
+color: brown;
+font-weight: ;
+}
+
+.button3 {
+    border: 1px solid purple;
+    background-color: whitesmoke;
+    color: red;
+    padding: 10px 15px 10px 15px;
+    margin: 5px;
+    border-radius: 50px;
+    text-decoration: none;
+}
+
+.button3:hover {
+background-color: pink;
+color: red;
+font-weight: ;
+}
